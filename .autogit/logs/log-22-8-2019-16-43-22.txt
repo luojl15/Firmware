@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sun Sep 22 2019 16:43:22 GMT+0800 (China Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-22-8-2019-16-13-15.txt
+
+
+Deleted files:
+
+
+Renamed files:
