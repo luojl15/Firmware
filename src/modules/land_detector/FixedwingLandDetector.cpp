@@ -126,6 +126,7 @@ bool FixedwingLandDetector::_get_landed_state()
 		landDetected = true;
 	}
 
+
 	return landDetected;
 }
 
